@@ -29,14 +29,12 @@ Thank you!
 ## Our Supporters:
 
 * [Workday](https://www.workday.com/en-us/pages/careers-dublin.html): hosting & food
-* [GreyScout](https://greyscout.com/): Prizes - Vouchers
-* [ShipItCon](https://shipitcon.com/): Community Partner & Prizes - Vouchers
-* [WITS Ireland](https://witsireland.com): Community Partner & Prizes - Vouchers
 
 ## Hugs to the following Community Partners (in alphabetical order):
 
 * [Coding Grace](https://codinggrace.com)
 * [Codú](https://www.codu.co/)
+* [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Ruby Ireland](http://www.rubyireland.com/)
