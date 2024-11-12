@@ -6,7 +6,7 @@
 
 This event is free but you need to register (below) as Workday security will require to have your names, and your tags will be ready at reception on the night of the event.
 
-* [Register here]: https://ti.to/irishgeeks/techie-quiz-2024
+* Register here: https://ti.to/irishgeeks/techie-quiz-2024
 
 💖 Raising funds for the following charity:
 
