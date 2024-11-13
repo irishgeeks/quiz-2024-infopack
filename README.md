@@ -40,6 +40,8 @@ Thank you!
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Ruby Ireland](http://www.rubyireland.com/)
+* [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland)
+
 
 # Schedule (\*subject to change)
 
