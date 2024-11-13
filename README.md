@@ -34,8 +34,10 @@ Thank you!
 
 * [Coding Grace](https://codinggrace.com)
 * [Codú](https://www.codu.co/)
+* [Dublin Linux Community](https://www.meetup.com/dublin-linux-community/)
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
+* [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Ruby Ireland](http://www.rubyireland.com/)
 
