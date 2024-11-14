@@ -41,6 +41,7 @@ Thank you!
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Ruby Ireland](http://www.rubyireland.com/)
+* [TechFoundHer](https://techfoundher.com/)
 * [TOG Hackerspace](https://www.tog.ie/)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland)
 
