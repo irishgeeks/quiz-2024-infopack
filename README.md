@@ -34,12 +34,14 @@ Thank you!
 
 * [Coding Grace](https://codinggrace.com)
 * [Codú](https://www.codu.co/)
+* [Dublin Atlassian Community](https://www.meetup.com/dublin-atlassian-community-events/)
 * [Dublin Linux Community](https://www.meetup.com/dublin-linux-community/)
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Ruby Ireland](http://www.rubyireland.com/)
+* [TOG Hackerspace](https://www.tog.ie/)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland)
 
 
