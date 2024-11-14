@@ -1,4 +1,4 @@
-# The Techie Charity Quiz 2024
+# 🎄Have Yourself a Quizzy Little Christmas🎄
 * 🗓️ Tue December 3, 2024 
 * 📍 Workday, Kings Building, 152-155 Church St, Arran Quay, Dublin 7, D07 A0TN
 
