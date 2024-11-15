@@ -45,6 +45,7 @@ Thank you!
 * [Ruby Ireland](http://www.rubyireland.com/)
 * [TechFoundHer](https://techfoundher.com/)
 * [TOG Hackerspace](https://www.tog.ie/)
+* [WITS Ireland](https://witsireland.com/)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland)
 
 
