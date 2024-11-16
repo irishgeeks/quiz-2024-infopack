@@ -42,6 +42,7 @@ Thank you!
 * [PHP Dublin](https://www.meetup.com/PHP-Dublin/)
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
+* [Python Ireland](https://www.python.ie)
 * [Ruby Ireland](http://www.rubyireland.com/)
 * [TechFoundHer](https://techfoundher.com/)
 * [TOG Hackerspace](https://www.tog.ie/)
