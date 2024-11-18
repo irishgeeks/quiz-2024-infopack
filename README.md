@@ -39,6 +39,7 @@ Thank you!
 * [Dublin Linux Community](https://www.meetup.com/dublin-linux-community/)
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
+* [GDG Dublin](https://gdg.community.dev/gdg-dublin/)
 * [PHP Dublin](https://www.meetup.com/PHP-Dublin/)
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
@@ -48,6 +49,7 @@ Thank you!
 * [TOG Hackerspace](https://www.tog.ie/)
 * [WITS Ireland](https://witsireland.com/)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland)
+* [Women Techmakers Dublin](https://gdg.community.dev/gdg-dublin/)
 
 
 # Schedule (\*subject to change)
