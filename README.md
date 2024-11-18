@@ -40,6 +40,7 @@ Thank you!
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
 * [GDG Dublin](https://gdg.community.dev/gdg-dublin/)
+* [MUG (MongoDB User Group) Dublin](https://www.meetup.com/dublin-mongodb-user-group) 
 * [PHP Dublin](https://www.meetup.com/PHP-Dublin/)
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
