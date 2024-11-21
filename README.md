@@ -49,6 +49,7 @@ Thank you!
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Python Ireland](https://www.python.ie)
 * [Ruby Ireland](http://www.rubyireland.com/)
+* [ShipItCon](https://shipitcon.com)
 * [TechFoundHer](https://techfoundher.com/)
 * [TOG Hackerspace](https://www.tog.ie/)
 * [WITS Ireland](https://witsireland.com/)
