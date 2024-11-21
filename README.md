@@ -42,6 +42,7 @@ Thank you!
 * [GDG Belfast](https://gdg.community.dev/gdg-belfast/)
 * [GDG Dublin](https://gdg.community.dev/gdg-dublin/)
 * [GDG Galway](https://gdg.community.dev/gdg-galway/)
+* [IxDA Dublin](https://www.ixda.ie)
 * [MUG (MongoDB User Group) Dublin](https://www.meetup.com/dublin-mongodb-user-group) 
 * [PHP Dublin](https://www.meetup.com/PHP-Dublin/)
 * [PyData Ireland](https://www.meetup.com/PyDataDublin/)
