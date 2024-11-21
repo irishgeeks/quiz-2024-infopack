@@ -39,6 +39,7 @@ Thank you!
 * [Dublin Linux Community](https://www.meetup.com/dublin-linux-community/)
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
+* [GDG Athlone](https://gdg.community.dev/gdg-athlone/)
 * [GDG Belfast](https://gdg.community.dev/gdg-belfast/)
 * [GDG Dublin](https://gdg.community.dev/gdg-dublin/)
 * [GDG Galway](https://gdg.community.dev/gdg-galway/)
