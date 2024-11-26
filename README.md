@@ -37,6 +37,7 @@ Thank you!
 * [Dublin Atlassian Community](https://www.meetup.com/dublin-atlassian-community-events/)
 * [DubJUG](https://dubjug.org/)
 * [Dublin Linux Community](https://www.meetup.com/dublin-linux-community/)
+* [Dublin Linux Developers](https://www.meetup.com/Dublin-Linux-Developers/)
 * [Dub|Sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://gamecraft.it)
 * [GDG Athlone](https://gdg.community.dev/gdg-athlone/)
